@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+HslCommunication/__init__.py
+HslCommunication.egg-info/PKG-INFO
+HslCommunication.egg-info/SOURCES.txt
+HslCommunication.egg-info/dependency_links.txt
+HslCommunication.egg-info/top_level.txt
